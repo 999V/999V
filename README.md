@@ -10,6 +10,7 @@
   </a>
 </p>
 
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="20%" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=999V)](https://github.com/999V)
 
