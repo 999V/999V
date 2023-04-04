@@ -3,7 +3,7 @@
 
 <p align="top"
   <a href="">
-    <img src="https://readme-stats.clckblog.space/api?username=999V&show_icons=true&count_private=true" width="50%">
+    <img src="https://readme-stats.clckblog.space/api?username=999V&show_icons=true&count_private=true" width="53%">
   </a>
   <a href="https://leetcode.cn/u/zhengxin-6/">
     <img src="https://stats.justsong.cn/api/leetcode?username=zhengxin-6&cn=true&theme=shades-of-purple" width="39%">
